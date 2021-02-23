@@ -2,8 +2,6 @@
 
 ## *English version* 
 
-<br/>
-
 #### *(Português abaixo)*
 <br/>
 
@@ -19,12 +17,9 @@ I am a student who loves what I do, learn, always. :computer:
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; About me: I like everything that has to do with tech area, I play LoL, PS4 adventure/action (Uncharted, Tomb Raider and related) and epic films like Star Wars.
  <br/> :email: &nbsp; Let's keep in touch: [![Linkedin Badge](https://img.shields.io/badge/-Samuel--Mota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-mota/)](https://www.linkedin.com/in/samuel-mota/) | [![Gmail Badge](https://img.shields.io/badge/-smagnun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smagnun@gmail.com)](mailto:smagnun@gmail.com)
-
-<br/>
 <br/>
 
 ## *Português*
-<br/>
 
 ### Olá pessoal 👋
 
