@@ -1,8 +1,10 @@
 # Samuel Mota
 
-**English version** <br/>
-*(Português abaixo)*
+## English version 
+
 <br/>
+
+*(Português abaixo)*
 <br/>
 
 ### Hi there 👋
@@ -20,8 +22,8 @@ I am a student who loves what I do, learn, always. :computer:
 
 <br/>
 <br/>
-**Português** <br/>
-<br/>
+
+## Português
 <br/>
 
 ### Olá pessoal 👋
