@@ -6,11 +6,11 @@
 </summary>
 <sub><em>(Português abaixo ⬇️)</em></sub>
  
-### Hi there 👋
+## Hi there 👋
 
-Solve problems is what makes me evolve, both in life and in programming. I love solving problems 😅
+Solve problems is what makes me evolve, both in life and in programming. I love solving problems 💛
 
-I am a student who loves what I do, learn, always. 💻
+I am a student who loves what I do, learn, always. 💡
 
 🌱 &nbsp; I am focused on learning:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
@@ -35,6 +35,12 @@ I am a student who loves what I do, learn, always. 💻
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=fff)
 
+⚡ &nbsp; On the list to learn in the near future:
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
+
+---
+
 🚀 &nbsp; About me: I am still not working as a **developer**, however I like everything that has to do with tech area, I play LoL, PS4 adventure/action (Uncharted, Tomb Raider and related), Netflix and epic films like Star Wars and The Godfather.
 
 📧 &nbsp; Let's keep in touch: 
@@ -57,11 +63,11 @@ I am a student who loves what I do, learn, always. 💻
 <strong><em>Português</em></strong>
 </summary>
 
-### Olá pessoal 👋
+## Olá pessoal 👋
 
-Resolver problemas é o que me faz evoluir, tanto na vida quanto na programação. Adoro resolver problemas 😅
+Resolver problemas é o que me faz evoluir, tanto na vida quanto na programação. Adoro resolver problemas 💛
 
-Sou um estudante que adora o que faz, aprender, sempre. 💻
+Sou um estudante que adora o que faz, aprender, sempre. 💡
  
 🌱 &nbsp; Estou focado em aprender:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
@@ -86,7 +92,7 @@ Sou um estudante que adora o que faz, aprender, sempre. 💻
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=fff)
 
-⚡ &nbsp; Na lista para aprender num futuro próximo:
+⚡ &nbsp; Na fila para aprender num futuro próximo:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
 
