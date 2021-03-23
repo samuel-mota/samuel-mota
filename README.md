@@ -1,6 +1,6 @@
 # Samuel Mota
 
-## English
+## *English*
 > [*Português abaixo 🔽*](#português)
  
 ## Hi there 👋
@@ -54,7 +54,7 @@ I am a student who loves what I do, learn, always. #NeverStopLearning 💡
 
 ---
 
-## Português
+## *Português*
 
 ## Olá pessoal 👋
 
