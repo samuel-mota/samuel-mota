@@ -1,10 +1,7 @@
 # Samuel Mota
 
-<details open>
-<summary>
-<strong><em>English</em></strong>
-</summary>
-<sub><em>(Português abaixo ⬇️)</em></sub>
+## English
+> [*Português abaixo 🔽*](#-portugues)
  
 ## Hi there 👋
 
@@ -52,16 +49,12 @@ I am a student who loves what I do, learn, always. #NeverStopLearning 💡
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandBox-000?style=flat&logo=codesandbox&logoColor=fff&link=https://codesandbox.io/u/samuel-mota)](https://codesandbox.io/u/samuel-mota)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
 
-</details>
-
+<br>
 <br>
 
 ---
 
-<details open>
-<summary>
-<strong><em>Português</em></strong>
-</summary>
+## Português
 
 ## Olá pessoal 👋
 
@@ -108,8 +101,6 @@ Sou um estudante que adora o que faz, aprender, sempre. #NuncaPareDeAprender �
 [![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat&logo=codepen&logoColor=fff&link=https://codepen.io/samuel-mota)](https://codepen.io/samuel-mota)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandBox-000?style=flat&logo=codesandbox&logoColor=fff&link=https://codesandbox.io/u/samuel-mota)](https://codesandbox.io/u/samuel-mota)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
-
-</details>
 
 
 
