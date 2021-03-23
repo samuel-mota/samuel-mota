@@ -8,9 +8,9 @@
  
 ## Hi there 👋
 
-Solve problems is what makes me evolve, both in life and in programming. I love solving problems 💛
+Solve problems is what makes me evolve, both in life and in development. I'm passionate about programming 💛
 
-I am a student who loves what I do, learn, always. 💡
+I am a student who loves what I do, learn, always. #NeverStopLearning 💡
 
 🌱 &nbsp; I am focused on learning:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
@@ -65,9 +65,9 @@ I am a student who loves what I do, learn, always. 💡
 
 ## Olá pessoal 👋
 
-Resolver problemas é o que me faz evoluir, tanto na vida quanto na programação. Adoro resolver problemas 💛
+Resolver problemas é o que me faz evoluir, tanto na vida quanto no desenvolvimento. Adoro programar 💛
 
-Sou um estudante que adora o que faz, aprender, sempre. 💡
+Sou um estudante que adora o que faz, aprender, sempre. #NuncaPareDeAprender 💡
  
 🌱 &nbsp; Estou focado em aprender:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
