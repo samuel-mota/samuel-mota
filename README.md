@@ -1,7 +1,7 @@
 # Samuel Mota
 
 ## English
-> [*Português abaixo 🔽*](#-português)
+> [*Português abaixo 🔽*](#português)
  
 ## Hi there 👋
 
