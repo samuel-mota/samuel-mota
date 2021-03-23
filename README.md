@@ -48,7 +48,7 @@ I am a student who loves what I do, learn, always. #NeverStopLearning 💡
 [![Gmail Badge](https://img.shields.io/badge/-smagnun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smagnun@gmail.com)](mailto:smagnun@gmail.com)
 
 ✨ &nbsp; Other links: 
-[![Codepen](https://img.shields.io/badge/-Samuel--Mota-black?style=flat&logo=codepen&logoColor=fff&link=https://codepen.io/samuel-mota)](https://codepen.io/samuel-mota)
+[![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat&logo=codepen&logoColor=fff&link=https://codepen.io/samuel-mota)](https://codepen.io/samuel-mota)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandBox-000?style=flat&logo=codesandbox&logoColor=fff&link=https://codesandbox.io/u/samuel-mota)](https://codesandbox.io/u/samuel-mota)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
 
@@ -105,7 +105,7 @@ Sou um estudante que adora o que faz, aprender, sempre. #NuncaPareDeAprender �
 [![Gmail Badge](https://img.shields.io/badge/-smagnun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smagnun@gmail.com)](mailto:smagnun@gmail.com)
 
 ✨ &nbsp; Outros links: 
-[![Codepen](https://img.shields.io/badge/-Samuel--Mota-black?style=flat&logo=codepen&logoColor=fff&link=https://codepen.io/samuel-mota)](https://codepen.io/samuel-mota)
+[![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat&logo=codepen&logoColor=fff&link=https://codepen.io/samuel-mota)](https://codepen.io/samuel-mota)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandBox-000?style=flat&logo=codesandbox&logoColor=fff&link=https://codesandbox.io/u/samuel-mota)](https://codesandbox.io/u/samuel-mota)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
 
