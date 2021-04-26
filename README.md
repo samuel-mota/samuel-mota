@@ -49,6 +49,11 @@ I am a student who loves what I do, learn, always. #NeverStopLearning 💡
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandBox-000?style=flat&logo=codesandbox&logoColor=fff&link=https://codesandbox.io/u/samuel-mota)](https://codesandbox.io/u/samuel-mota)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
 
+<!--![My Stats](https://github-readme-stats.vercel.app/api/top-langs?username=samuel-mota&show_icons=true&langs_count=8&theme=dracula&locale=en&layout=compact)-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-mota&show_icons=true&langs_count=10&theme=dracula&locale=en&layout=compact">
+</p>
+
 <br>
 <br>
 
@@ -102,7 +107,9 @@ Sou um estudante que adora o que faz, aprender, sempre. #NuncaPareDeAprender �
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandBox-000?style=flat&logo=codesandbox&logoColor=fff&link=https://codesandbox.io/u/samuel-mota)](https://codesandbox.io/u/samuel-mota)
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-mota&show_icons=true&langs_count=10&theme=dracula&locale=pt-br&layout=compact">
+</p>
 
 <!--
 **samuel-mota/samuel-mota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
