@@ -45,9 +45,10 @@ I am a student who loves what I do, learn, always. #NeverStopLearning 💡
 [![Gmail Badge](https://img.shields.io/badge/-smagnun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smagnun@gmail.com)](mailto:smagnun@gmail.com)
 
 ✨ &nbsp; Other links: 
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
+[![Glitch](https://img.shields.io/badge/-Glitch-000?style=flat&logo=glitch&logoColor=fff&https://glitch.com/@samuel-mota)](https://glitch.com/@samuel-mota)
 [![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat&logo=codepen&logoColor=fff&link=https://codepen.io/samuel-mota)](https://codepen.io/samuel-mota)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandBox-000?style=flat&logo=codesandbox&logoColor=fff&link=https://codesandbox.io/u/samuel-mota)](https://codesandbox.io/u/samuel-mota)
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
 
 <!--![My Stats](https://github-readme-stats.vercel.app/api/top-langs?username=samuel-mota&show_icons=true&langs_count=8&theme=dracula&locale=en&layout=compact)-->
 <p align="center">
@@ -103,9 +104,10 @@ Sou um estudante que adora o que faz, aprender, sempre. #NuncaPareDeAprender �
 [![Gmail Badge](https://img.shields.io/badge/-smagnun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smagnun@gmail.com)](mailto:smagnun@gmail.com)
 
 ✨ &nbsp; Outros links: 
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
+[![Glitch](https://img.shields.io/badge/-Glitch-000?style=flat&logo=glitch&logoColor=fff&https://glitch.com/@samuel-mota)](https://glitch.com/@samuel-mota)
 [![Codepen](https://img.shields.io/badge/-Codepen-black?style=flat&logo=codepen&logoColor=fff&link=https://codepen.io/samuel-mota)](https://codepen.io/samuel-mota)
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandBox-000?style=flat&logo=codesandbox&logoColor=fff&link=https://codesandbox.io/u/samuel-mota)](https://codesandbox.io/u/samuel-mota)
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-mota&show_icons=true&langs_count=10&theme=dracula&locale=pt-br&layout=compact">
