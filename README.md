@@ -5,7 +5,7 @@
  
 ## Hi there 👋
 
-### ***Have a look on my Portfolio online!! https://samuelmota.dev/***
+### ***Take a look at my Portfolio online!! https://samuelmota.dev/***
 
 Solve problems is what makes me evolve, both in life and in development. I'm passionate about programming 💛
 
