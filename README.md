@@ -5,6 +5,8 @@
  
 ## Hi there 👋
 
+### ***Have a look on my Portfolio online!! https://samuelmota.dev/***
+
 Solve problems is what makes me evolve, both in life and in development. I'm passionate about programming 💛
 
 I am a student who loves what I do, learn, always. #NeverStopLearning 💡
@@ -63,6 +65,8 @@ I am a student who loves what I do, learn, always. #NeverStopLearning 💡
 ## *Português*
 
 ## Olá pessoal 👋
+
+### ***Dê uma olhada em meu Portfolio online!! https://samuelmota.dev/***
 
 Resolver problemas é o que me faz evoluir, tanto na vida quanto no desenvolvimento. Adoro programar 💛
 
