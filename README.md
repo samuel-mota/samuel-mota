@@ -14,8 +14,8 @@ I am a student who loves what I do, learn, always. #NeverStopLearning 💡
 🌱 &nbsp; I am focused on learning:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![React Native](https://img.shields.io/badge/-React--Native-0088CC?style=flat&logo=react&logoColor=fff)
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node-dot-js&logoColor=fff)
-![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next-dot-js&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=fff)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=fff)
 
 🛠️ &nbsp; Tools I use on a daily basis:
@@ -75,8 +75,8 @@ Sou um estudante que adora o que faz, aprender, sempre. #NuncaPareDeAprender �
 🌱 &nbsp; Estou focado em aprender:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![React Native](https://img.shields.io/badge/-React--Native-0088CC?style=flat&logo=react&logoColor=fff)
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node-dot-js&logoColor=fff)
-![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next-dot-js&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=fff)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=fff)
 
 🛠️ &nbsp; Ferramentas que uso no dia-a-dia:
