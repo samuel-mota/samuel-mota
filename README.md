@@ -45,7 +45,7 @@ I am a student who loves what I do, learn, always. #NeverStopLearning 💡
 
 📧 &nbsp; Let's keep in touch: 
 [![Linkedin Badge](https://img.shields.io/badge/-Samuel--Mota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-mota/)](https://www.linkedin.com/in/samuel-mota/) 
-[![Gmail Badge](https://img.shields.io/badge/-smagnun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@samuelmota.dev)](mailto:hello@samuelmota.dev)
+[![Gmail Badge](https://img.shields.io/badge/-hello@samuelmota.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@samuelmota.dev)](mailto:hello@samuelmota.dev)
 
 ✨ &nbsp; Other links: 
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
@@ -107,7 +107,7 @@ Sou um estudante que adora o que faz, aprender, sempre. #NuncaPareDeAprender �
  
 📧 &nbsp; Entre em contato comigo: 
 [![Linkedin Badge](https://img.shields.io/badge/-Samuel--Mota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-mota/)](https://www.linkedin.com/in/samuel-mota/) 
-[![Gmail Badge](https://img.shields.io/badge/-smagnun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@samuelmota.dev)](mailto:hello@samuelmota.dev)
+[![Gmail Badge](https://img.shields.io/badge/-hello@samuelmota.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@samuelmota.dev)](mailto:hello@samuelmota.dev)
 
 ✨ &nbsp; Outros links: 
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-000?style=flat&logo=freecodecamp&logoColor=fff&https://www.freecodecamp.org/samuelmota)](https://www.freecodecamp.org/samuelmota)
