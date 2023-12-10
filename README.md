@@ -5,7 +5,7 @@
  
 ## Hi there 👋
 
-### ***Take a look at my Portfolio online!! https://samuelmota.dev/***
+### ***Take a look at my Portfolio online!! [https://portfolio-samuel-mota.vercel.app/pt/](https://portfolio-samuel-mota.vercel.app/pt)***
 
 Solve problems is what makes me evolve, both in life and in development. I'm passionate about programming 💛
 
@@ -67,7 +67,7 @@ I am a student who loves what I do, learn, always. #NeverStopLearning 💡
 
 ## Olá pessoal 👋
 
-### ***Dê uma olhada em meu Portfolio online!! https://samuelmota.dev/***
+### ***Dê uma olhada em meu Portfolio online!! [https://portfolio-samuel-mota.vercel.app/pt](https://portfolio-samuel-mota.vercel.app/pt)***
 
 Resolver problemas é o que me faz evoluir, tanto na vida quanto no desenvolvimento. Adoro programar 💛
 
