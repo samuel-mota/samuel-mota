@@ -5,7 +5,7 @@
  
 ## Hi there 👋
 
-### ***Take a look at my Portfolio online!! [https://portfolio-samuel-mota.vercel.app/pt/](https://portfolio-samuel-mota.vercel.app/pt)***
+### ***Take a look at my Portfolio online!! [https://portfolio-samuel-mota.vercel.app/](https://portfolio-samuel-mota.vercel.app)***
 
 Solve problems is what makes me evolve, both in life and in development. I'm passionate about programming 💛
 
